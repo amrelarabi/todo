@@ -21,3 +21,4 @@ to your .env file then run this command :
   <code>npm run dev</code><br>
   <code>cd path_to_your_project_file</code><br>  
   <code>php artisan migrate </code><br>
+You can find the project on behence https://www.behance.net/gallery/109404569/Simple-To-do-list-web-app
